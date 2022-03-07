@@ -1,1 +1,1 @@
-# skirky3605.egstore.repo
+# skirky3605的UWP版EGStore相关文件
