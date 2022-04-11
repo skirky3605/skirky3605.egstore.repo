@@ -1,0 +1,49 @@
+{
+	"repo_version" : 1.0,
+	"HomePage_Screen" : {
+		"ID" : "ID005",
+		"Clickable" : true,
+		"Screen" : "[网址]",
+		"More" : {
+			"Light_Screen" : "[网址]",
+			"Dark_Screen" : "[网址]",
+		}
+	},
+	"repo" : {
+		"ID001":{
+			"AppDisplayName" : "示例应用1",
+			"PackageID" : "skirky.SimpleApp1",
+			"version" : 1.0,
+			"Downloadable" : false,
+			"Describe" : "只是一个示例",
+			"Star" : 1.5,
+			"Screens" : [
+				"[网址]",
+				"[网址]",
+				"[网址]",
+				"[网址]",
+				"[网址]",
+			],
+			"AppIcon" : "[网址]",
+			"Developer" : "[作者]"
+		},
+		"ID002":{
+			"AppDisplayName" : "示例应用2",
+			"PackageID" : "skirky.SimpleApp2",
+			"version" : 1.1,
+			"Downloadable" : true,
+			"Describe" : "只是一个示例,点击下载微信",
+			"star" : 5.0,
+			"Click_Url" : "https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe",
+			"Screens" : [
+				"[网址]",
+				"[网址]",
+				"[网址]",
+				"[网址]",
+				"[网址]",
+			],
+			"AppIcon" : "[网址]",
+			"Developer" : "[作者]"
+		}
+	}
+}
